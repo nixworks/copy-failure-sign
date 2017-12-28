@@ -1,2 +1,2 @@
-# copy-failure-sign
-nixworks 2018
+# copy failure sign
+nixworks
